@@ -1,10 +1,10 @@
 # SimpleCalculatorJS
 
-https://rutik675lt.github.io/SimpleCalculator/
+https://rutik675lt.github.io/SimpleCalculatorJS/
 ![SimpleCalculator Screenshot](Images/app.png)
 
 
-SimpleCalculatorJD is a minimalist and visually appealing web-based calculator built using HTML CSS and JS. It's designed to perform basic arithmetic operations and provides a user-friendly interface for quick calculations.
+SimpleCalculatorJS is a minimalist and visually appealing web-based calculator built using HTML CSS and JS. It's designed to perform basic arithmetic operations and provides a user-friendly interface for quick calculations.
 
 ## Features
 
@@ -15,11 +15,11 @@ SimpleCalculatorJD is a minimalist and visually appealing web-based calculator b
 
 ### Prerequisites
 
-No prerequisites are needed for running the SimpleCalculator, as it runs directly in the browser without any additional setup.
+No prerequisites are needed for running the SimpleCalculatorJS, as it runs directly in the browser without any additional setup.
 
 ### Running Locally
 
-To run SimpleCalculator on your local machine:
+To run SimpleCalculatorJS on your local machine:
 
 1. Clone the repository:
    ```bash
